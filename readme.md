@@ -10,11 +10,11 @@ This demo shows how to use component router with Angular 2. It shows:
 ## Getting started
 
 Just run ``npm install`` to get all libs and to run the gulp-task. 
-``
+```
 npm install
-``
+```
 
 After a change, call tsc to re-compile the typescript-code or use your IDE to do so.
-``
+```
 tsc
-``
+```
